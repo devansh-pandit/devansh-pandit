@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> there, I'm <a>Yashi Gupta</a></h1>
 
-<!--
-**devansh-pandit/devansh-pandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻  &nbsp;About Me 
+- 👀 I’m interested in new technologies like AIML, MERN Development, Google Cloud, and many more.
+- 🌱 I’m currently learning. 
+- 📫 Email: devanshpandit18@gmail.com
 
-Here are some ideas to get you started:
+## 🛠 &nbsp;Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+c
+
+<!--- Snake Animation -->
+![Snake animation](https://github.com/yashigupta4623/yashigupta4623/blob/output/github-snake-dark.svg)
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/devansh-pandit/">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashigupta4623&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashigupta4623&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+## 🤝🏻 &nbsp;Connect with Me
+
+<div class="social-badges">
+<a href="[Linkedin](https://www.linkedin.com/in/devanshpandit18/)" target="_blank">
+  <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
+</div>
+
+
