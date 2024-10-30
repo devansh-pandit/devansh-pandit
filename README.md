@@ -18,7 +18,7 @@
   <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="XML" src="https://img.shields.io/badge/xml-%23F77F00.svg?style=for-the-badge&logo=xml&logoColor=white"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <br>
+  
   
   <!-- Technologies/Frameworks -->
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -28,7 +28,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <br>
+  
   
   <!-- Developer Tools -->
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
