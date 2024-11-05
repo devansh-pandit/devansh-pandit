@@ -58,9 +58,9 @@
   <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
- <a href="[https://www.cloudskillsboost.google/public_profiles/e5cec970-0cc5-4375-b358-514f45b8061c](https://www.cloudskillsboost.google/public_profiles/26e1efb4-ebb2-45e3-8936-0ae4f2ac37c7)" target="_blank">
+ <!--<a href="[https://www.cloudskillsboost.google/public_profiles/e5cec970-0cc5-4375-b358-514f45b8061c](https://www.cloudskillsboost.google/public_profiles/26e1efb4-ebb2-45e3-8936-0ae4f2ac37c7)" target="_blank">
     <img alt="Qwiklab" src="https://img.shields.io/badge/Qwiklabs-F5CD0E.svg?style=for-the-badge&logo=Qwiklabs&logoColor=black">
-  </a>
+  </a> -->
 
   <a href="https://x.com/pandit_dev33638" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/-twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white">
