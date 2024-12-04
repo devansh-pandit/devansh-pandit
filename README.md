@@ -42,6 +42,7 @@
 <!--- Snake Animation -->
 <!---![Snake animation](https://github.com/yashigupta4623/yashigupta4623/blob/output/github-snake-dark.svg) -->
 
+<!--
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
@@ -50,6 +51,7 @@
   <img height="180em" width="340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devnash-pandit&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+-->
 
 ## 🤝🏻 &nbsp;Connect with Me
 
